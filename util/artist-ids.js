@@ -6,13 +6,13 @@
 
 module.exports = {
   pop: [
-    262836961, // ADELE
-    459885, // Avril Lavigne
-    1419227, // Beyoncé
-    217005, // Britney Spears
+    677647437, // Felix Jaehn
+    320569549, // Justin Bieber
+    1177984235, // Capital Bra
+    1798556, // Maroon 5
     64387566, // Katy Perry
-    277293880, // Lady GaGa
-    184932871 // MIKA
+    1065981054, // Billie Elish
+    358714030 // Imagine Dragons
   ],
   rap: [
     1587965, // A Tribe Called Quest
